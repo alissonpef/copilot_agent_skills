@@ -170,7 +170,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 ### Principais contribuidores:
 
 <a href="https://github.com/alissonpef/copilot_agent_skills/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alissonpef/copilot_agent_skills" alt="imagem contrib.rocks" />
+  <img src="https://contrib.rocks/image?repo=Alissonpef/copilot_agent_skills" alt="imagem contrib.rocks" />
 </a>
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
